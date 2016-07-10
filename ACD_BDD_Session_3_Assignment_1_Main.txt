@@ -1,0 +1,10 @@
+1. d) once
+2. b) input splits
+3. d) fault tolerance
+4. c) hdfs-site.xml
+5. b) logical
+6. c) namespace
+7. d) hdfs
+8. a) close()
+9. b) DFSInputStream
+10. c) 100
